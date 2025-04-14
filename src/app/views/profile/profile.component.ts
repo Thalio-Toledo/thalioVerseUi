@@ -11,6 +11,7 @@ import { ButtonModule } from 'primeng/button';
 export class ProfileComponent {
 
   menu : string[] = ["Home", "About", "Projects", "contact"]
+  
 
 
 
